@@ -1,3 +1,5 @@
+Note: This version of TestPilot has been archived. Please refer to the new version at [https://github.com/neu-se/testpilot2](https://github.com/neu-se/testpilot2).
+
 # TestPilot
 
 TestPilot is a tool for automatically generating unit tests for npm packages
